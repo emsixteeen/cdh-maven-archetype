@@ -4,15 +4,15 @@
     <archetype>
       <groupId>com.cloudera.maven.archetype</groupId>
       <artifactId>mapred-driver-archetype</artifactId>
-      <version>1.0</version>
-      <repository>http://repository.cloudera.com/content/repositories/releases</repository>
+      <version>1.0.0-SNAPSHOT</version>
+      <repository>https://repository.cloudera.com/content/repositories/snapshots</repository>
       <description>mapred-driver-archetype</description>
     </archetype>
     <archetype>
       <groupId>com.cloudera.maven.archetype</groupId>
       <artifactId>hive-udf-archetype</artifactId>
-      <version>1.0</version>
-      <repository>http://repository.cloudera.com/content/repositories/releases</repository>
+      <version>1.0.0-SNAPSHOT</version>
+      <repository>https://repository.cloudera.com/content/repositories/snapshots</repository>
       <description>hive-udf-archetype</description>
     </archetype>
   </archetypes>
